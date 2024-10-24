@@ -14,7 +14,7 @@ To successfully compile code with pyinstaller:
 - Compile the code using pyinstaller by running this command:   `pyinstaller --onefile SAW.py` or install the software via the provided setup.
 
 
-![System WATCHDOG.gif](https://github.com/IT-Support-L2/System-WATCHDOG/blob/main/SWD.gif)
+![System WATCHDOG.gif](https://github.com/hamdi-bouasker/System-WATCHDOG/blob/main/SWD.gif)
 
   
 # All inputs are mandatory!
